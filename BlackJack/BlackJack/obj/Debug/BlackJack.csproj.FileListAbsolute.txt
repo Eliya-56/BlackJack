@@ -1,0 +1,6 @@
+c:\users\администратор\documents\visual studio 2017\Projects\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+c:\users\администратор\documents\visual studio 2017\Projects\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+c:\users\администратор\documents\visual studio 2017\Projects\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+c:\users\администратор\documents\visual studio 2017\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.csprojResolveAssemblyReference.cache
+c:\users\администратор\documents\visual studio 2017\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+c:\users\администратор\documents\visual studio 2017\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
